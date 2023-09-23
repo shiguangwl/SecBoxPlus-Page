@@ -8,7 +8,7 @@
     "state": "1",
     "stateInfo": "系统维护中...关注最新进度\nQ群:228952477",
     "configJsonUrl": "http://secbox.xxhoz.com/source.json",
-    "danmukuApi": "http://secbox.xxhoz.com/danmu/?url=",
+    "danmukuApi": "https://danmu.xxhoz.com/?url=",
     "banner": ["http://secbox.xxhoz.com/banner.jpg","http://secbox.xxhoz.com/banner1.jpg"],
     "customSite": ["茶杯狐@https://cupfox.app/","555电影@https://555dyx1.com/","PP影@https://www.ppys66.com/","电影先生@https://www.dianyi.ng/"]
 }
