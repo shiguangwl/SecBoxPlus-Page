@@ -1,0 +1,14 @@
+{
+    "version": "2.0.0",
+    "version_min": "1.2.4",
+    "msg": "最新版本 2.0.1  \n1.完善重试机制\n2.完善缓存有效性校验\n3.调整播放页UI\n4.播放页添加弹幕开关\n5.修复若干BUG\n6.进入播放页自动继续上次播放\n7.修复alpha版存在解析异常的问题",
+    "downloadUrl": "https://timeho.lanzoue.com/iOlRQ0n2fiba",
+    "notice": "\n\n但幕影视2.0  \n demo版,仅完成基本功能\n弹幕目前仅做基本适配,部分资源可加载弹幕\n\n资源来自网络,请勿相信视频中任何广告\n存在BUG正常现象",
+    "lru": "6f27c9185e3442f0b786772c30749320",
+    "state": "1",
+    "stateInfo": "系统维护中...关注最新进度\nQ群:228952477",
+    "configJsonUrl": "http://secbox.xxhoz.com/source.json",
+    "danmukuApi": "http://secbox.xxhoz.com/danmu/?url=",
+    "banner": ["http://secbox.xxhoz.com/banner.jpg","http://secbox.xxhoz.com/banner1.jpg"],
+    "customSite": ["茶杯狐@https://cupfox.app/","555电影@https://555dyx1.com/","PP影@https://www.ppys66.com/","电影先生@https://www.dianyi.ng/"]
+}

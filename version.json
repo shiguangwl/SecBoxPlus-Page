@@ -1,0 +1,12 @@
+{
+    "version": "1.2.4",
+    "version_min": "1.2.1",
+    "msg": "最新版本 1.2.4  \n1.完善重试机制\n2.完善缓存有效性校验\n3.调整播放页UI\n4.播放页添加弹幕开关\n5.修复若干BUG\n6.进入播放页自动继续上次播放\n7.修复alpha版存在解析异常的问题",
+    "downloadUrl": "https://timeho.lanzoue.com/iOlRQ0n2fiba",
+    "notice": "永久免费无广告,觉得好用的记得分享给你朋友哦~",
+    "lru": "6f27c9185e3442f0b786772c30749320",
+    "state": "1",
+    "stateInfo": "系统维护中...关注最新进度\nQ群:228952477",
+    "configJsonUrl": "https://jihulab.com/clear1/yingmi/-/raw/main/xh.txt",
+    "danmukuApi": "http://secbox.xxhoz.com/danmu/?url="
+}
