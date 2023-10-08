@@ -511,6 +511,11 @@
       "url": "http://27.124.4.42:4567/jhjson/ceshi.php?url="
     },
     {
+      "name": "777",
+      "type": 0,
+      "url": "https://jx.jsonplayer.com/player/?url="
+    }
+    {
       "name": "8090",
       "type": 0,
       "url": "https://www.8090g.cn/?url="
