@@ -366,13 +366,6 @@
       "ext": "https://yayayaaapp.ynf.icu/api.php/app/"
     },
     {
-      "key": "drpy_js_奇珍异兽",
-      "name": "🐨┃爱奇┃官源",
-      "type": 3,
-      "api": "http://alist.xn--z7x900a.love:63/ddrpy2.m.js",
-      "ext": "http://alist.xn--z7x900a.love:63/爱奇.js"
-    },
-    {
       "key": "Qtv",
       "name": "🐧┃企鹅┃官源",
       "type": 3,
