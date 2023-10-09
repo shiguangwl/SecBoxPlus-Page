@@ -521,6 +521,11 @@
       "url": "https://www.8090g.cn/?url="
     },
     {
+      "name": "PlayerJY",
+      "type": 0,
+      "url": "https://jx.playerjy.com/?url="
+    },
+    {
       "name": "777",
       "type": 0,
       "url": "https://jx.jsonplayer.com/player/?url="
@@ -529,11 +534,6 @@
       "name": "playm3u8",
       "type": 0,
       "url": "https://www.8090g.cn/?url="
-    },
-    {
-      "name": "PlayerJY",
-      "type": 0,
-      "url": "https://jx.playerjy.com/?url="
     },
     {
       "name": "虾米",
