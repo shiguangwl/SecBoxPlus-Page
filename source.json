@@ -2,42 +2,42 @@
   "sites": [
     {
       "key": "drpy_js_360影视",
-      "name": "⚡️弹幕 | 360",
+      "name": "⚡️┃弹幕┃360",
       "type": 3,
       "api": "https://secbox.xxhoz.com/lib/drpy2.min.js",
       "ext": "https://secbox.xxhoz.com/js/360影视.js"
     },
     {
       "key": "drpy_js_百忙无果",
-      "name": "⚡️弹幕 | 芒果",
+      "name": "⚡️┃弹幕┃芒果",
       "type": 3,
       "api": "https://secbox.xxhoz.com/lib/drpy2.min.js",
       "ext": "https://secbox.xxhoz.com/js/百忙无果.js"
     },
     {
       "key": "drpy_js_腾云驾雾",
-      "name": "⚡️弹幕 | 腾讯",
+      "name": "⚡️┃弹幕┃腾讯",
       "type": 3,
       "api": "https://secbox.xxhoz.com/lib/drpy2.min.js",
       "ext": "https://secbox.xxhoz.com/js/腾云驾雾.js"
     },
     {
       "key": "drpy_js_奇珍异兽",
-      "name": "⚡️弹幕 | 爱奇艺",
+      "name": "⚡️┃弹幕┃爱奇艺",
       "type": 3,
       "api": "https://secbox.xxhoz.com/lib/drpy2.min.js",
       "ext": "https://secbox.xxhoz.com/js/奇珍异兽.js"
     },
     {
       "key": "drpy_js_菜狗",
-      "name": "⚡️弹幕 | 搜狗",
+      "name": "⚡️┃弹幕┃搜狗",
       "type": 3,
       "api": "https://secbox.xxhoz.com/lib/drpy2.min.js",
       "ext": "https://secbox.xxhoz.com/js/菜狗.js"
     },
     {
       "key": "drpy_js_优酷",
-      "name": "⚡️弹幕 | 优酷",
+      "name": "⚡️┃弹幕┃优酷",
       "type": 3,
       "api": "https://secbox.xxhoz.com/lib/drpy2.min.js",
       "ext": "https://secbox.xxhoz.com/js/优酷.js"
@@ -367,7 +367,7 @@
     },
     {
       "key": "Qtv",
-      "name": "🐧┃企鹅┃官源",
+      "name": "🐧┃弹幕┃企鹅",
       "type": 3,
       "api": "csp_Qtv",
       "searchable": 1,
