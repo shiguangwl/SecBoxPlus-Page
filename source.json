@@ -507,14 +507,9 @@
   ],
   "parses": [
     {
-      "name": "左岸解析",
-      "type": 1,
-      "url": "http://110.42.2.247:880/analysis/json/?uid=2449&my=acfgikquvzFGJRW459&url="
-    },
-    {
-      "name": "莫问前程",
-      "type": 1,
-      "url": "http://27.124.4.42:4567/jhjson/ceshi.php?url="
+      "name": "777",
+      "type": 0,
+      "url": "https://jx.jsonplayer.com/player/?url="
     },
     {
       "name": "8090",
@@ -525,11 +520,6 @@
       "name": "PlayerJY",
       "type": 0,
       "url": "https://jx.playerjy.com/?url="
-    },
-    {
-      "name": "777",
-      "type": 0,
-      "url": "https://jx.jsonplayer.com/player/?url="
     },
     {
       "name": "playm3u8",
