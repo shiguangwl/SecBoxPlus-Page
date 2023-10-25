@@ -507,47 +507,6 @@
     ],
     "parses": [
       {
-              "name": "世界🥭",
-              "type": 1,
-              "url": "http://175.178.183.192:86/api/?key=b832096861839f56066bf4ae7a0d7be0&url=",
-              "ext": {
-                  "flag": [
-                      "qq",
-                      "mgtv",
-                      "YuMi-vip"
-                  ]
-              }
-          },
-      {
-              "name": "左岸🌾",
-              "type": 1,
-              "url": "https://api.tyun77.cn/api.php/provide/parseDicturl?url=",
-              "ext": {
-                  "flag": [
-                      "爱奇艺",
-                      "奇艺",
-                      "qq",
-                      "腾讯",
-                      "youku",
-                      "优酷",
-                      "pptv",
-                      "PPTV",
-                      "letv",
-                      "乐视",
-                      "leshi",
-                      "bilibili",
-                      "哔哩哔哩",
-                      "哔哩",
-                      "mgtv",
-                      "芒果",
-                      "芒果"
-                  ],
-                  "header": {
-                      "User-Agent": "okhttp/3.12.0"
-                  }
-              }
-          },
-      {
         "name": "无名🌸",
               "type": 1,
         "url": "https://json.vipjx.cnow.eu.org/?url="
@@ -556,6 +515,47 @@
         "name": "777",
         "type": 0,
         "url": "https://jx.jsonplayer.com/player/?url="
+      },
+      {
+          "name": "世界🥭",
+          "type": 1,
+          "url": "http://175.178.183.192:86/api/?key=b832096861839f56066bf4ae7a0d7be0&url=",
+          "ext": {
+              "flag": [
+                  "qq",
+                  "mgtv",
+                  "YuMi-vip"
+              ]
+          }
+      },
+      {
+          "name": "左岸🌾",
+          "type": 1,
+          "url": "https://api.tyun77.cn/api.php/provide/parseDicturl?url=",
+          "ext": {
+              "flag": [
+                  "爱奇艺",
+                  "奇艺",
+                  "qq",
+                  "腾讯",
+                  "youku",
+                  "优酷",
+                  "pptv",
+                  "PPTV",
+                  "letv",
+                  "乐视",
+                  "leshi",
+                  "bilibili",
+                  "哔哩哔哩",
+                  "哔哩",
+                  "mgtv",
+                  "芒果",
+                  "芒果"
+              ],
+              "header": {
+                  "User-Agent": "okhttp/3.12.0"
+              }
+          }
       },
       {
         "name": "8090",
