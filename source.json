@@ -507,14 +507,14 @@
     ],
     "parses": [
       {
-        "name": "无名🌸",
-              "type": 1,
-        "url": "https://json.vipjx.cnow.eu.org/?url="
-      },
-      {
         "name": "777",
         "type": 0,
         "url": "https://jx.jsonplayer.com/player/?url="
+      },
+      {
+        "name": "无名🌸",
+              "type": 1,
+        "url": "https://json.vipjx.cnow.eu.org/?url="
       },
       {
           "name": "世界🥭",
