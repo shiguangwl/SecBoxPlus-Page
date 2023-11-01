@@ -558,6 +558,11 @@
           }
       },
       {
+        "name": "快看",
+        "type": 0,
+        "url": "https://43.240.74.102:4433/?url="
+      },
+      {
         "name": "8090",
         "type": 0,
         "url": "https://www.8090g.cn/?url="
@@ -571,16 +576,6 @@
         "name": "playm3u8",
         "type": 0,
         "url": "https://www.8090g.cn/?url="
-      },
-      {
-        "name": "虾米",
-        "type": 0,
-        "url": "https://jx.xmflv.com/?url="
-      },
-      {
-        "name": "M3U8TV",
-        "type": 0,
-        "url": "https://jx.m3u8.tv/jiexi/?url="
       },
       {
         "name": "盘古",
