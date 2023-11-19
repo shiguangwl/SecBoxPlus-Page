@@ -557,6 +557,11 @@
         "name": "盘古",
         "type": 0,
         "url": "https://www.pangujiexi.com/jiexi/?url="
+      },
+      {
+        "name": "Test",
+        "type": 1,
+        "url": "http://json.84jia.com/home/api?type=ys&uid=9207061&key=cknqtwxDEFMQSV0123&url="
       }
     ],
     "rules": [
