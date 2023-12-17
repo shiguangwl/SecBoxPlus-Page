@@ -527,8 +527,13 @@
         "url": "https://danmu.xxhoz.com/jx.php?x=4&url="
       },
       {
+        "name": "快看",
+        "type": 0,
+        "url": "https://43.240.74.102:4433/?url="
+      },
+      {
         "name": "无名",
-              "type": 1,
+        "type": 1,
         "url": "https://json.vipjx.cnow.eu.org/?url="
       },
       {
@@ -540,11 +545,6 @@
         "name": "XM",
         "type": 0,
         "url": "https://jx.xmflv.com/?url="
-      },
-      {
-        "name": "快看",
-        "type": 0,
-        "url": "https://43.240.74.102:4433/?url="
       },
       {
         "name": "AID",
