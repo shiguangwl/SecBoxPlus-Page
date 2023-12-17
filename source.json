@@ -509,12 +509,12 @@
       {
         "name": "但幕",
         "type": 1,
-        "url": "https://danmu.xxhoz.com/jx.php?x=1&url="
+        "url": "https://danmu.xxhoz.com/jx.php?x=2&url="
       },
       {
         "name": "影视",
         "type": 1,
-        "url": "https://danmu.xxhoz.com/jx.php?x=2&url="
+        "url": "https://danmu.xxhoz.com/jx.php?x=1&url="
       },
       {
         "name": "独家",
@@ -527,31 +527,19 @@
         "url": "https://danmu.xxhoz.com/jx.php?x=4&url="
       },
       {
+        "name": "无名",
+              "type": 1,
+        "url": "https://json.vipjx.cnow.eu.org/?url="
+      },
+      {
         "name": "777",
         "type": 0,
         "url": "https://jx.jsonplayer.com/player/?url="
       },
       {
-        "name": "无名🌸",
-              "type": 1,
-        "url": "https://json.vipjx.cnow.eu.org/?url="
-      },
-      {
-          "name": "世界🥭",
-          "type": 1,
-          "url": "http://175.178.183.192:86/api/?key=b832096861839f56066bf4ae7a0d7be0&url=",
-          "ext": {
-              "flag": [
-                  "qq",
-                  "mgtv",
-                  "YuMi-vip"
-              ]
-          }
-      },
-      {
-          "name": "CACHE",
-          "type": 1,
-          "url": "https://cache.json.icu/s1804857380.php?url="
+        "name": "XM",
+        "type": 0,
+        "url": "https://jx.xmflv.com/?url="
       },
       {
         "name": "快看",
@@ -559,29 +547,19 @@
         "url": "https://43.240.74.102:4433/?url="
       },
       {
+        "name": "AID",
+        "type": 0,
+        "url": "https://jx.xyflv.cc/?url="
+      },
+      {
         "name": "8090",
         "type": 0,
         "url": "https://www.8090g.cn/?url="
       },
       {
-        "name": "PlayerJY",
+        "name": "PJY",
         "type": 0,
         "url": "https://jx.playerjy.com/?url="
-      },
-      {
-        "name": "playm3u8",
-        "type": 0,
-        "url": "https://www.8090g.cn/?url="
-      },
-      {
-        "name": "盘古",
-        "type": 0,
-        "url": "https://www.pangujiexi.com/jiexi/?url="
-      },
-      {
-        "name": "Test",
-        "type": 1,
-        "url": "http://json.84jia.com/home/api?type=ys&uid=9207061&key=cknqtwxDEFMQSV0123&url="
       }
     ],
     "rules": [
