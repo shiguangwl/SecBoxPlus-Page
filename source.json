@@ -507,16 +507,6 @@
     ],
     "parses": [
       {
-        "name": "777",
-        "type": 0,
-        "url": "https://jx.jsonplayer.com/player/?url="
-      },
-      {
-        "name": "XM",
-        "type": 0,
-        "url": "https://jx.xmflv.com/?url="
-      },
-      {
         "name": "但幕",
         "type": 1,
         "url": "https://danmu.xxhoz.com/jx.php?x=2&url="
@@ -535,6 +525,16 @@
         "name": "高清",
         "type": 1,
         "url": "https://danmu.xxhoz.com/jx.php?x=4&url="
+      },
+      {
+        "name": "777",
+        "type": 0,
+        "url": "https://jx.jsonplayer.com/player/?url="
+      },
+      {
+        "name": "XM",
+        "type": 0,
+        "url": "https://jx.xmflv.com/?url="
       },
       {
         "name": "快看",
