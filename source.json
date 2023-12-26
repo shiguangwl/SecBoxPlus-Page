@@ -507,27 +507,7 @@
     ],
     "parses": [
       {
-        "name": "但幕",
-        "type": 1,
-        "url": "https://danmu.xxhoz.com/jx.php?x=2&url="
-      },
-      {
-        "name": "影视",
-        "type": 1,
-        "url": "https://danmu.xxhoz.com/jx.php?x=1&url="
-      },
-      {
-        "name": "独家",
-        "type": 1,
-        "url": "https://danmu.xxhoz.com/jx.php?x=3&url="
-      },
-      {
-        "name": "高清",
-        "type": 1,
-        "url": "https://danmu.xxhoz.com/jx.php?x=4&url="
-      },
-      {
-        "name": "777",
+        "name": "77",
         "type": 0,
         "url": "https://jx.jsonplayer.com/player/?url="
       },
@@ -535,6 +515,31 @@
         "name": "XM",
         "type": 0,
         "url": "https://jx.xmflv.com/?url="
+      },
+      {
+        "name": "PJY",
+        "type": 0,
+        "url": "https://jx.playerjy.com/?url="
+      },
+      {
+        "name": "AID",
+        "type": 0,
+        "url": "https://jx.xyflv.cc/?url="
+      },
+      {
+        "name": "M3U8",
+        "type": 0,
+        "url": "https://jx.m3u8.tv/jiexi/?url="
+      },
+      {
+        "name": "8090",
+        "type": 0,
+        "url": "https://www.8090g.cn/?url="
+      },
+      {
+        "name": "YParse",
+        "type": 0,
+        "url": "https://jx.yparse.com/index.php?url="
       },
       {
         "name": "快看",
@@ -545,21 +550,6 @@
         "name": "无名",
         "type": 1,
         "url": "https://json.vipjx.cnow.eu.org/?url="
-      },
-      {
-        "name": "AID",
-        "type": 0,
-        "url": "https://jx.xyflv.cc/?url="
-      },
-      {
-        "name": "8090",
-        "type": 0,
-        "url": "https://www.8090g.cn/?url="
-      },
-      {
-        "name": "PJY",
-        "type": 0,
-        "url": "https://jx.playerjy.com/?url="
       }
     ],
     "rules": [
